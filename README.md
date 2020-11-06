@@ -1,5 +1,13 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Getting Started
+
+- run ganache GUI or ganache-cli on default port HTTP://127.0.0.1:7545
+- run command truffle migrate to deploy contracts to private chain
+- import mnemonic key into metamask to access chain accounts
+- cd to truffle_react/client
+- run command npm run start
+
 ## Available Scripts
 
 In the project directory, you can run:
